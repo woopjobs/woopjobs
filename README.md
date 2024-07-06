@@ -1,4 +1,4 @@
-# ![logo-woop](https://github.com/woopjobs/woopjobs/assets/156158708/8adf97aa-c988-4c37-8bca-95112fa254e3) Woop Jobs! | work Opportunities
+# ![logo-woop (1)](https://github.com/woopjobs/woopjobs/assets/156158708/fbfcdc4d-1972-49d1-bdeb-2e18e70135b7) Woop Jobs! | work Opportunities
 
 **Red social y marketplace de servicios que te conecta con profesionistas y empresas de confianza 🔮**
 
