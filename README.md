@@ -1,8 +1,9 @@
-# Woop Jobs! | work Opportunities
+# ![logo-woop](https://github.com/woopjobs/woopjobs/assets/156158708/8adf97aa-c988-4c37-8bca-95112fa254e3) Woop Jobs! | work Opportunities
 
 **Red social y marketplace de servicios que te conecta con profesionistas y empresas de confianza 🔮**
 
-![banner-woop](https://github.com/woopjobs/woopjobs/assets/156158708/aa943993-1f88-4332-bbef-03e447bfe53c)
+![banner-woop](https://github.com/woopjobs/woopjobs/assets/156158708/93bf2938-b362-48a1-a55b-195343ea1232)
+
 
 ## Quienes somos 🙋🏻‍♂️
 
